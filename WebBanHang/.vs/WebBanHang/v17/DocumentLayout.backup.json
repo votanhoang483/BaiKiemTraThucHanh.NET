@@ -1,0 +1,312 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\SE310_.NET\\BaiKiemTraThucHanh.NET\\WebBanHang\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D666389C-47A4-4180-A545-81D1092993D1}|WebBanHang.csproj|d:\\se310_.net\\baikiemtrathuchanh.net\\webbanhang\\views\\shared\\_layoutogani.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D666389C-47A4-4180-A545-81D1092993D1}|WebBanHang.csproj|solutionrelative:views\\shared\\_layoutogani.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D666389C-47A4-4180-A545-81D1092993D1}|WebBanHang.csproj|d:\\se310_.net\\baikiemtrathuchanh.net\\webbanhang\\areas\\admin\\views\\shared\\_layoutadmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D666389C-47A4-4180-A545-81D1092993D1}|WebBanHang.csproj|solutionrelative:areas\\admin\\views\\shared\\_layoutadmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D666389C-47A4-4180-A545-81D1092993D1}|WebBanHang.csproj|d:\\se310_.net\\baikiemtrathuchanh.net\\webbanhang\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D666389C-47A4-4180-A545-81D1092993D1}|WebBanHang.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D666389C-47A4-4180-A545-81D1092993D1}|WebBanHang.csproj|d:\\se310_.net\\baikiemtrathuchanh.net\\webbanhang\\views\\shared\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D666389C-47A4-4180-A545-81D1092993D1}|WebBanHang.csproj|solutionrelative:views\\shared\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D666389C-47A4-4180-A545-81D1092993D1}|WebBanHang.csproj|d:\\se310_.net\\baikiemtrathuchanh.net\\webbanhang\\views\\home\\sanphamtheoloai.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D666389C-47A4-4180-A545-81D1092993D1}|WebBanHang.csproj|solutionrelative:views\\home\\sanphamtheoloai.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D666389C-47A4-4180-A545-81D1092993D1}|WebBanHang.csproj|d:\\se310_.net\\baikiemtrathuchanh.net\\webbanhang\\controllers\\accesscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D666389C-47A4-4180-A545-81D1092993D1}|WebBanHang.csproj|solutionrelative:controllers\\accesscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D666389C-47A4-4180-A545-81D1092993D1}|WebBanHang.csproj|d:\\se310_.net\\baikiemtrathuchanh.net\\webbanhang\\areas\\admin\\views\\homeadmin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D666389C-47A4-4180-A545-81D1092993D1}|WebBanHang.csproj|solutionrelative:areas\\admin\\views\\homeadmin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D666389C-47A4-4180-A545-81D1092993D1}|WebBanHang.csproj|d:\\se310_.net\\baikiemtrathuchanh.net\\webbanhang\\areas\\admin\\views\\homeadmin\\danhmucsanpham.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D666389C-47A4-4180-A545-81D1092993D1}|WebBanHang.csproj|solutionrelative:areas\\admin\\views\\homeadmin\\danhmucsanpham.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D666389C-47A4-4180-A545-81D1092993D1}|WebBanHang.csproj|d:\\se310_.net\\baikiemtrathuchanh.net\\webbanhang\\areas\\admin\\views\\homeadmin\\quanlynguoidung.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D666389C-47A4-4180-A545-81D1092993D1}|WebBanHang.csproj|solutionrelative:areas\\admin\\views\\homeadmin\\quanlynguoidung.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D666389C-47A4-4180-A545-81D1092993D1}|WebBanHang.csproj|d:\\se310_.net\\baikiemtrathuchanh.net\\webbanhang\\areas\\admin\\views\\homeadmin\\themsanphammoi.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D666389C-47A4-4180-A545-81D1092993D1}|WebBanHang.csproj|solutionrelative:areas\\admin\\views\\homeadmin\\themsanphammoi.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D666389C-47A4-4180-A545-81D1092993D1}|WebBanHang.csproj|d:\\se310_.net\\baikiemtrathuchanh.net\\webbanhang\\areas\\admin\\views\\homeadmin\\suasanpham.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D666389C-47A4-4180-A545-81D1092993D1}|WebBanHang.csproj|solutionrelative:areas\\admin\\views\\homeadmin\\suasanpham.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D666389C-47A4-4180-A545-81D1092993D1}|WebBanHang.csproj|d:\\se310_.net\\baikiemtrathuchanh.net\\webbanhang\\areas\\admin\\controllers\\homeadmincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D666389C-47A4-4180-A545-81D1092993D1}|WebBanHang.csproj|solutionrelative:areas\\admin\\controllers\\homeadmincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D666389C-47A4-4180-A545-81D1092993D1}|WebBanHang.csproj|d:\\se310_.net\\baikiemtrathuchanh.net\\webbanhang\\views\\home\\productdetail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D666389C-47A4-4180-A545-81D1092993D1}|WebBanHang.csproj|solutionrelative:views\\home\\productdetail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D666389C-47A4-4180-A545-81D1092993D1}|WebBanHang.csproj|d:\\se310_.net\\baikiemtrathuchanh.net\\webbanhang\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D666389C-47A4-4180-A545-81D1092993D1}|WebBanHang.csproj|solutionrelative:views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D666389C-47A4-4180-A545-81D1092993D1}|WebBanHang.csproj|d:\\se310_.net\\baikiemtrathuchanh.net\\webbanhang\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D666389C-47A4-4180-A545-81D1092993D1}|WebBanHang.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D666389C-47A4-4180-A545-81D1092993D1}|WebBanHang.csproj|d:\\se310_.net\\baikiemtrathuchanh.net\\webbanhang\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D666389C-47A4-4180-A545-81D1092993D1}|WebBanHang.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D666389C-47A4-4180-A545-81D1092993D1}|WebBanHang.csproj|d:\\se310_.net\\baikiemtrathuchanh.net\\webbanhang\\models\\authentication\\authentication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D666389C-47A4-4180-A545-81D1092993D1}|WebBanHang.csproj|solutionrelative:models\\authentication\\authentication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SanPhamTheoLoai.cshtml",
+              "DocumentMoniker": "D:\\SE310_.NET\\BaiKiemTraThucHanh.NET\\WebBanHang\\Views\\Home\\SanPhamTheoLoai.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\SanPhamTheoLoai.cshtml",
+              "ToolTip": "D:\\SE310_.NET\\BaiKiemTraThucHanh.NET\\WebBanHang\\Views\\Home\\SanPhamTheoLoai.cshtml",
+              "RelativeToolTip": "Views\\Home\\SanPhamTheoLoai.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-28T07:37:00.748Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ProductDetail.cshtml",
+              "DocumentMoniker": "D:\\SE310_.NET\\BaiKiemTraThucHanh.NET\\WebBanHang\\Views\\Home\\ProductDetail.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\ProductDetail.cshtml",
+              "ToolTip": "D:\\SE310_.NET\\BaiKiemTraThucHanh.NET\\WebBanHang\\Views\\Home\\ProductDetail.cshtml",
+              "RelativeToolTip": "Views\\Home\\ProductDetail.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-28T07:36:58.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "D:\\SE310_.NET\\BaiKiemTraThucHanh.NET\\WebBanHang\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Privacy.cshtml",
+              "ToolTip": "D:\\SE310_.NET\\BaiKiemTraThucHanh.NET\\WebBanHang\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-28T07:36:56.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\SE310_.NET\\BaiKiemTraThucHanh.NET\\WebBanHang\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\SE310_.NET\\BaiKiemTraThucHanh.NET\\WebBanHang\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-28T07:36:53.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "QuanLyNguoiDung.cshtml",
+              "DocumentMoniker": "D:\\SE310_.NET\\BaiKiemTraThucHanh.NET\\WebBanHang\\Areas\\Admin\\Views\\HomeAdmin\\QuanLyNguoiDung.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\HomeAdmin\\QuanLyNguoiDung.cshtml",
+              "ToolTip": "D:\\SE310_.NET\\BaiKiemTraThucHanh.NET\\WebBanHang\\Areas\\Admin\\Views\\HomeAdmin\\QuanLyNguoiDung.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\HomeAdmin\\QuanLyNguoiDung.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACoAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-28T07:21:23.895Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_LayoutOgani.cshtml",
+              "DocumentMoniker": "D:\\SE310_.NET\\BaiKiemTraThucHanh.NET\\WebBanHang\\Views\\Shared\\_LayoutOgani.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_LayoutOgani.cshtml",
+              "ToolTip": "D:\\SE310_.NET\\BaiKiemTraThucHanh.NET\\WebBanHang\\Views\\Shared\\_LayoutOgani.cshtml*",
+              "RelativeToolTip": "Views\\Shared\\_LayoutOgani.cshtml*",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAMwF4AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-24T00:35:31.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\SE310_.NET\\BaiKiemTraThucHanh.NET\\WebBanHang\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "D:\\SE310_.NET\\BaiKiemTraThucHanh.NET\\WebBanHang\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAxwB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T00:32:09.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Authentication.cs",
+              "DocumentMoniker": "D:\\SE310_.NET\\BaiKiemTraThucHanh.NET\\WebBanHang\\Models\\Authentication\\Authentication.cs",
+              "RelativeDocumentMoniker": "Models\\Authentication\\Authentication.cs",
+              "ToolTip": "D:\\SE310_.NET\\BaiKiemTraThucHanh.NET\\WebBanHang\\Models\\Authentication\\Authentication.cs",
+              "RelativeToolTip": "Models\\Authentication\\Authentication.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T00:29:05.031Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\SE310_.NET\\BaiKiemTraThucHanh.NET\\WebBanHang\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\SE310_.NET\\BaiKiemTraThucHanh.NET\\WebBanHang\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAewCUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T23:41:28.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\SE310_.NET\\BaiKiemTraThucHanh.NET\\WebBanHang\\Views\\Shared\\Login.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\Login.cshtml",
+              "ToolTip": "D:\\SE310_.NET\\BaiKiemTraThucHanh.NET\\WebBanHang\\Views\\Shared\\Login.cshtml",
+              "RelativeToolTip": "Views\\Shared\\Login.cshtml",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAABYAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-23T23:38:28.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AccessController.cs",
+              "DocumentMoniker": "D:\\SE310_.NET\\BaiKiemTraThucHanh.NET\\WebBanHang\\Controllers\\AccessController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AccessController.cs",
+              "ToolTip": "D:\\SE310_.NET\\BaiKiemTraThucHanh.NET\\WebBanHang\\Controllers\\AccessController.cs",
+              "RelativeToolTip": "Controllers\\AccessController.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwCsAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T23:30:41.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SuaSanPham.cshtml",
+              "DocumentMoniker": "D:\\SE310_.NET\\BaiKiemTraThucHanh.NET\\WebBanHang\\Areas\\Admin\\Views\\HomeAdmin\\SuaSanPham.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\HomeAdmin\\SuaSanPham.cshtml",
+              "ToolTip": "D:\\SE310_.NET\\BaiKiemTraThucHanh.NET\\WebBanHang\\Areas\\Admin\\Views\\HomeAdmin\\SuaSanPham.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\HomeAdmin\\SuaSanPham.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-23T23:10:58.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DanhMucSanPham.cshtml",
+              "DocumentMoniker": "D:\\SE310_.NET\\BaiKiemTraThucHanh.NET\\WebBanHang\\Areas\\Admin\\Views\\HomeAdmin\\DanhMucSanPham.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\HomeAdmin\\DanhMucSanPham.cshtml",
+              "ToolTip": "D:\\SE310_.NET\\BaiKiemTraThucHanh.NET\\WebBanHang\\Areas\\Admin\\Views\\HomeAdmin\\DanhMucSanPham.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\HomeAdmin\\DanhMucSanPham.cshtml",
+              "ViewState": "AgIAADkAAAAAAAAAAAAAABIAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-23T23:01:58.712Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ThemSanPhamMoi.cshtml",
+              "DocumentMoniker": "D:\\SE310_.NET\\BaiKiemTraThucHanh.NET\\WebBanHang\\Areas\\Admin\\Views\\HomeAdmin\\ThemSanPhamMoi.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\HomeAdmin\\ThemSanPhamMoi.cshtml",
+              "ToolTip": "D:\\SE310_.NET\\BaiKiemTraThucHanh.NET\\WebBanHang\\Areas\\Admin\\Views\\HomeAdmin\\ThemSanPhamMoi.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\HomeAdmin\\ThemSanPhamMoi.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAADwAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-23T22:53:53.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\SE310_.NET\\BaiKiemTraThucHanh.NET\\WebBanHang\\Areas\\Admin\\Views\\HomeAdmin\\Index.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\HomeAdmin\\Index.cshtml",
+              "ToolTip": "D:\\SE310_.NET\\BaiKiemTraThucHanh.NET\\WebBanHang\\Areas\\Admin\\Views\\HomeAdmin\\Index.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\HomeAdmin\\Index.cshtml",
+              "ViewState": "AgIAACIBAAAAAAAAAAAcwFIBAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-23T21:55:15.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "HomeAdminController.cs",
+              "DocumentMoniker": "D:\\SE310_.NET\\BaiKiemTraThucHanh.NET\\WebBanHang\\Areas\\Admin\\Controllers\\HomeAdminController.cs",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Controllers\\HomeAdminController.cs",
+              "ToolTip": "D:\\SE310_.NET\\BaiKiemTraThucHanh.NET\\WebBanHang\\Areas\\Admin\\Controllers\\HomeAdminController.cs",
+              "RelativeToolTip": "Areas\\Admin\\Controllers\\HomeAdminController.cs",
+              "ViewState": "AgIAAGUAAAAAAAAAAAAiwHMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T21:52:54.149Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_LayoutAdmin.cshtml",
+              "DocumentMoniker": "D:\\SE310_.NET\\BaiKiemTraThucHanh.NET\\WebBanHang\\Areas\\Admin\\Views\\Shared\\_LayoutAdmin.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Shared\\_LayoutAdmin.cshtml",
+              "ToolTip": "D:\\SE310_.NET\\BaiKiemTraThucHanh.NET\\WebBanHang\\Areas\\Admin\\Views\\Shared\\_LayoutAdmin.cshtml*",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Shared\\_LayoutAdmin.cshtml*",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAMwDcAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-23T21:41:32.071Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
